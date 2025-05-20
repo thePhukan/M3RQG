@@ -6,7 +6,7 @@ Official implementation for the M3RQG framework, exploring multi-modal multi-hop
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/m3rqg.git
+git clone https://github.com/thePhukan/M3RQG.git
 cd m3rqg
 
 conda env create -f environment_webqaqwen.yml
