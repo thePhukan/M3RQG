@@ -13,9 +13,9 @@ conda env create -f environment_webqaqwen.yml
 conda activate webqaqwen
 
 .
-├── bart_md.py             # Bart-Large baseline + M3RQG implementation
-├── md_phi/               # Phi-3.5-Vision model with M3RQG
-├── md_llava/             # LLaVA model with M3RQG
+├── bart_md.py            # Bart-Large baseline + M3RQG implementation
+├── md_phi.py             # Phi-3.5-Vision model with M3RQG
+├── md_llava.py           # LLaVA model with M3RQG
 ├── 1d_llava.py           # LLaVA ablation (single decoder)
 ├── 1d_phi.py             # Phi-3.5-Vision ablation (single decoder)
 ├── dataset_split/
